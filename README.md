@@ -14,7 +14,7 @@ To run the application, run the following command in the Integrated Terminal:
 node index.js
 ```
 
-## Features:
+## Features
 * A command-line application, using inquirer.prompt, display questions, asks for User input and accepts User input as information about employees.
 * Each team member type is defined as a class. There is a `blue print` class called Employee, and three other extended classes; namely Manager, Engineer and Intern, each with additional properties and methods for their role. 
 * User is present with a menu with the option to:
@@ -28,6 +28,9 @@ node index.js
 * When User finishes building their team, they exit the application, and a HTML file is generated in "output" folder. 
 
 
+## Example of output team.html file
+![HTML webpage titled “My Team”](./assets/html.gif)
+
 ## Github URL
 https://github.com/prangchira/Team-Profile-Generator
 
@@ -36,7 +39,7 @@ https://github.com/prangchira/Team-Profile-Generator
 https://prangchira.github.io/Team-Profile-Generator/
 
 
-## Credit:
+## Credit
 I would like to credit to Tutor Samuel Cordova for his guidance on class, constructor function, extends, how to render html and how they all fit in. 
 
 
